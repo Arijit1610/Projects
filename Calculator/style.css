@@ -2,13 +2,17 @@ html, body{
     height: 100%;
     width: 100%;
     font-family: 'Roboto', sans-serif;
+    background-color: rgb(87, 168, 197) ;
 }
 .button{
     padding: 20px;
     margin: 0px 3px;
     border: 2px solid black;
     border-radius: 9px;
-
+    width: 70px;
+    font-size: 20px;
+    color: whitesmoke;
+    background-color: black;
 }
 .row{
     margin: 8px 0px;
@@ -19,4 +23,5 @@ html, body{
     padding: 10px 0px;
     border: 2px solid black;
     border-radius: 5px;
+    width: 309px;
 }
